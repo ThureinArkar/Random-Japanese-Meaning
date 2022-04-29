@@ -80,6 +80,36 @@ let chars = [
   {
     text1:`No`,
   },
+  {
+    text1:`Amarica`,
+  },
+  {
+    text1:`England`,
+  },
+  {
+    text1:`India`,
+  },
+  {
+    text1:`Indonesia`,
+  },
+  {
+    text1:`Korea`,
+  },
+  {
+    text1:`Thailand`,
+  },
+  {
+    text1:`China`,
+  },
+  {
+    text1:`Germany`,
+  },
+  {
+    text1:`Japan`,
+  },
+  {
+    text1:`Brazil`,
+  },
 ];
 
  button.onclick=()=>{
