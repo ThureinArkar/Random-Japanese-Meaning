@@ -1,4 +1,4 @@
-const display=document.querySelector("ul li p"),
+const display=document.querySelector("p"),
 display1 = document.getElementById("text1"),
 display2 = document.getElementById("text2"),
 display3 = document.getElementById("text3"),
