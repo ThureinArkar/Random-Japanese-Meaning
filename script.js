@@ -1,4 +1,4 @@
-const display=document.querySelector("input"),
+const display=document.querySelector("ul li p"),
 display1 = document.getElementById("text1"),
 display2 = document.getElementById("text2"),
 display3 = document.getElementById("text3"),
@@ -110,14 +110,44 @@ let chars = [
   {
     text1:`Brazil`,
   },
+  {
+    text1:`Spring`,
+  },
+  {
+    text1:`Summer`,
+  },
+  {
+    text1:`Autumn`,
+  },
+  {
+    text1:`Winter`,
+  },
 ];
 
- button.onclick=()=>{
 
+button.addEventListener('click', () => {
 let randomPhrase=Math.floor(Math.random() * chars.length);
+display.innerHTML = chars[randomPhrase].text1;
+});
+
+snowFall.snow(document.querySelector('.snow'), {
+	minSize: 6,
+	maxSize: 10,
+	round: true,
+	flakeCount: 30,
+	flakeColor: 'white'
+});
+
+
+
+
+
+//  button.onclick=()=>{
+
+// let randomPhrase=Math.floor(Math.random() * chars.length);
 // display.value = chars[randomPhrase].text;
 // display1.value = chars[randomPhrase].author;
-display2.value = chars[randomPhrase].text1;
+// display2.value = chars[randomPhrase].text1;
 // display3.value = chars[randomPhrase].text2;
 // let randomPhrase1 =Math.floor(Math.random() * chars1.length);
 // display1.value = chars1[randomPhrase].author;
@@ -132,35 +162,4 @@ display2.value = chars[randomPhrase].text1;
    //   );
    // }
 
- }
-
-
-
-
-
-
-
-
-
-
-function copy() {
-  copyBtn.style.display = "none";
-  copyActive.style.display = "block";
-  display.select();
-  document.execCommand("copy");
-}
-
-$("span.far").click(function () {
-
-  $(".alert").fadeIn(1000);
-  $(".alert").fadeOut(1000);
-
-})
-
-snowFall.snow(document.querySelector('.snow'), {
-	minSize: 6,
-	maxSize: 10,
-	round: true,
-	flakeCount: 30,
-	flakeColor: 'aqua'
-});
+//  }
