@@ -122,6 +122,193 @@ let chars = [
   {
     text1:`Winter`,
   },
+  {
+    text1:``,
+  },
+  {
+    text1:``,
+  },
+  {
+    text1:``,
+  },
+  {
+    text1:``,
+  },
+  {
+    text1:``,
+  },
+  {
+    text1:``,
+  },
+  {
+    text1:`book`,
+  },
+  {
+    text1:`dictionary`,
+  },
+  {
+    text1:`magazine`,
+  },
+  {
+    text1:`newspaper`,
+  },
+  {
+    text1:`exercise book,notebook`,
+  },
+  {
+    text1:`pocketbook`,
+  },
+  {
+    text1:`address card/business card`,
+  },
+  {
+    text1:`credit card`,
+  },
+  {
+    text1:`pencil`,
+  },
+  {
+    text1:`ball pen`,
+  },
+  {
+    text1:`lead pencil`,
+  },
+  {
+    text1:`key`,
+  },
+  {
+    text1:`umbrella`,
+  },
+  {
+    text1:`bag`,
+  },
+  {
+    text1:`CD`,
+  },
+  {
+    text1:`television,TV`,
+  },
+  {
+    text1:`radio`,
+  },
+  {
+    text1:`camera`,
+  },
+  {
+    text1:`computer`,
+  },
+  {
+    text1:`car,automobile,motor car`,
+  },
+  {
+    text1:`writing table`,
+  },
+  {
+    text1:`seat,chair`,
+  },
+  {
+    text1:`chocolate`,
+  },
+  {
+    text1:`coffee`,
+  },
+  {
+    text1:`memory present`,
+  },
+  {
+    text1:`English langauge`,
+  },
+  {
+    text1:`Japan Language`,
+  },
+  {
+    text1:`Is it?`,
+  },
+  {
+    text1:`Isn't it?`,
+  },
+  {
+    text1:`classroom`,
+  },
+  {
+    text1:`dining-room,restaurant,canteen`,
+  },
+  {
+    text1:`office`,
+  },
+  {
+    text1:`meeting room`,
+  },
+  {
+    text1:`reception counter`,
+  },
+  {
+    text1:`restroom`,
+  },
+  {
+    text1:`room`,
+  },
+  {
+    text1:`toilet`,
+  },
+  {
+    text1:`ladder`,
+  },
+  {
+    text1:`lift`,
+  },
+  {
+    text1:`moving staircase`,
+  },
+  {
+    text1:`automatic seller machine`,
+  },
+  {
+    text1:`telephone`,
+  },
+  {
+    text1:`country`,
+  },
+  {
+    text1:`company`,
+  },
+  {
+    text1:`home,house`,
+  },
+  {
+    text1:`footwear`,
+  },
+  {
+    text1:`wine`,
+  },
+  {
+    text1:`underground`,
+  },
+  {
+    text1:`yen`,
+  },
+  {
+    text1:`welcome`,
+  },
+  {
+    text1:`Italy`,
+  },
+  {
+    text1:`Switzerland`,
+  },
+  {
+    text1:`France`,
+  },
+  {
+    text1:`Jakarta`,
+  },
+  {
+    text1:`Bangkok`,
+  },
+  {
+    text1:`Berlin`,
+  },
+
 ];
 
 
